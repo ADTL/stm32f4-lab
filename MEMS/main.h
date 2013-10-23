@@ -24,7 +24,7 @@
 #define __MAIN_H
 
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f4_discovery.h"
+#include "stm32f4xx_conf.h"
 #include "stm32f4_discovery_lis302dl.h"
 
 /* Exported types ------------------------------------------------------------*/

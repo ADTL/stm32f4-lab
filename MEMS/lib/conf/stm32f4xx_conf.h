@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    LIS302DL/stm32f4xx_conf.h  
+  * @file    IO_Toggle/stm32f4xx_conf.h  
   * @author  MCD Application Team
   * @version V1.0.0
   * @date    19-September-2011
@@ -69,7 +69,7 @@
 
 /* Uncomment the line below to expanse the "assert_param" macro in the 
    Standard Peripheral Library drivers code */
-/* #define USE_FULL_ASSERT    1 */
+//#define USE_FULL_ASSERT    1
 
 /* Exported macro ------------------------------------------------------------*/
 #ifdef  USE_FULL_ASSERT
